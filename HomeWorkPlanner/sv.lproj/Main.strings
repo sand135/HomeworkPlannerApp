@@ -1,0 +1,60 @@
+
+/* Class = "UIBarButtonItem"; title = "←"; ObjectID = "74H-oG-5UV"; */
+"74H-oG-5UV.title" = "←";
+
+/* Class = "UINavigationItem"; title = "📚Mina läxor"; ObjectID = "9nR-Q0-701"; */
+"9nR-Q0-701.title" = "📚Mina läxor";
+
+/* Class = "UIBarButtonItem"; title = "←"; ObjectID = "F3Y-Yy-DYf"; */
+"F3Y-Yy-DYf.title" = "←";
+
+/* Class = "UILabel"; text = "Att göra: "; ObjectID = "Kf5-JG-qy2"; */
+"Kf5-JG-qy2.text" = "Att göra: ";
+
+/* Class = "UILabel"; text = "Läxa: "; ObjectID = "KmF-Pm-7yL"; */
+"KmF-Pm-7yL.text" = "Läxa: ";
+
+/* Class = "UILabel"; text = "Ingen sparad läxa hittades"; ObjectID = "NO1-5h-gVJ"; */
+"NO1-5h-gVJ.text" = "Ingen sparad läxa hittades";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Nuv-1a-XVC"; */
+"Nuv-1a-XVC.text" = "5";
+
+/* Class = "UITextView"; accessibilityHint = "Skriv din läxa här"; ObjectID = "OXY-KX-id4"; */
+"OXY-KX-id4.accessibilityHint" = "Skriv din läxa här";
+
+/* Class = "UILabel"; text = " Görs till: "; ObjectID = "QcW-Vm-O8T"; */
+"QcW-Vm-O8T.text" = " Görs till: ";
+
+/* Class = "UIButton"; normalTitle = "Fortsätt"; ObjectID = "RxN-0b-w8P"; */
+"RxN-0b-w8P.normalTitle" = "Fortsätt";
+
+/* Class = "UIButton"; normalTitle = "Dag och datum"; ObjectID = "Wvw-1O-xZ9"; */
+"Wvw-1O-xZ9.normalTitle" = "Dag och datum";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "XbQ-fV-WgZ"; */
+"XbQ-fV-WgZ.text" = "Subject";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bXl-xx-FWO"; */
+"bXl-xx-FWO.text" = "Label";
+
+/* Class = "UILabel"; text = "Kämpa på! "; ObjectID = "cCC-cm-T64"; */
+"cCC-cm-T64.text" = "Kämpa på! ";
+
+/* Class = "UIButton"; normalTitle = "Ta en bild på läxan 📷"; ObjectID = "f1S-l3-s3c"; */
+"f1S-l3-s3c.normalTitle" = "Ta en bild på läxan 📷";
+
+/* Class = "UILabel"; text = "Ämne"; ObjectID = "nN1-Ys-dRu"; */
+"nN1-Ys-dRu.text" = "Ämne";
+
+/* Class = "UIBarButtonItem"; title = "📝 Visa alla "; ObjectID = "oe1-3s-ana"; */
+"oe1-3s-ana.title" = "📝 Visa alla ";
+
+/* Class = "UIBarButtonItem"; title = "Spara ✔︎"; ObjectID = "u6c-X1-aPO"; */
+"u6c-X1-aPO.title" = "Spara ✔︎";
+
+/* Class = "UILabel"; text = "Läxa till: "; ObjectID = "vdg-RC-Ux9"; */
+"vdg-RC-Ux9.text" = "Läxa till: ";
+
+/* Class = "UILabel"; text = "Välj dag"; ObjectID = "zYd-Ge-vxT"; */
+"zYd-Ge-vxT.text" = "Välj dag";
